@@ -1,2 +1,33 @@
+
+#github: [Repository metadata]
+
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md","_drafts"] # files to exclude
 highlighter: pygments
-github: [Repository metadata]
+markdown: kramdown
+disqus: dbyll
+google_analytics: dbyll
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: dbyll
+
+description: Stylish Jekyll Theme
+author:
+  name: Kelvin Green
+  github: catch878
+  twitter: KelvinDGreen
+  linkedin: kelvindgreen
+  bio: A computer & electrical engineer focusing on hardware design. Other interests include philosophizing and trying to understand tech trends using sociology.
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
