@@ -8,15 +8,15 @@ paginate_path: "page:num"
 exclude: ["README.md","_drafts"] # files to exclude
 highlighter: pygments
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
+disqus: betweenthecacheandahardplace
+#google_analytics: dbyll
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Between the Cache and a Hard Place
 
 description: Stylish Jekyll Theme
 author:
@@ -24,7 +24,7 @@ author:
   github: catch878
   twitter: KelvinDGreen
   linkedin: kelvindgreen
-  bio: A computer & electrical engineer focusing on hardware design. Other interests include philosophizing and trying to understand tech trends using sociology.
+  bio: Computer & electrical engineer with a focus in hardware design. Hobbies include thinking about stuff like science, philosophy, economics, and engineering and then occasionally writing about them.
 
 rss_path: feed.xml
 categories_path: categories.html
