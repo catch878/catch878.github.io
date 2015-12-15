@@ -8,7 +8,7 @@ paginate_path: "page:num"
 exclude: ["README.md","_drafts"] # files to exclude
 highlighter: pygments
 markdown: kramdown
-disqus: betweenthecacheandahardplace
+disqus: off-by-one
 #google_analytics: dbyll
 
 defaults:
@@ -16,7 +16,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Between the Cache and a Hard Place
+      title: Off by One
 
 description: Stylish Jekyll Theme
 author:
