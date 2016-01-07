@@ -6,7 +6,7 @@ categories: [analysis]
 tags: [news, prediction]
 description: An analysis and prediction of why and how the iPhone will survive even without a headphone port.
 ---
-###"Apple can't get rid of the headphone port! Everything uses it!" Well... 
+###"How could Apple remove something so widely used?" Well... 
 Some may have heard by now about the rumors that the iPhone 7 will be [removing the headphone port](http://www.forbes.com/sites/gordonkelly/2016/01/06/iphone-7-loses-headphone-jack/) in favor of a Lightning adapter for headphones. Of course, people are outraged about this, especially the audiophile community, but at this point we really shouldn't be surprised when Apple pulls something like this. Apple is hardly a stranger to killing off features that are ubiquitous and commonly regarded as necessary for a successful product, in the past they've:
 
 * killed the [CD Drive and Ethernet port](http://www.macworld.com/article/1131696/macbookair_faq.html) more than [once](http://www.techrepublic.com/blog/cracking-open/apples-next-generation-macbook-pro-drops-ethernet-optical-drive/)
